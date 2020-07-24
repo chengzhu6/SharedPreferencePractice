@@ -3,4 +3,6 @@
     <string name="sp_activity">SPActivity</string>
     <string name="please_input">please input</string>
     <string name="submit">Submit</string>
+    <string name="preferences_file_key">com.thoughtworks.myapplication.filekey</string>
+    <string name="edit_text">edit_text</string>
 </resources>
